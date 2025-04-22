@@ -18,9 +18,9 @@
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
 ### 💭About me
-I have experience in developing Telegram bots, server applications and desktop interfaces. I also automate various business processes within my company.
+I have experience in developing Telegram bots, server applications and desktop interfaces. I also constantly work on automatization of various business processes for the company that I work at at the present moment.
 
-I get better every day - I study new algorithms and write code, this is my favorite activity.
+I'm trying to get better every day - I literally spend hours studying new algorithms and writing code for various cases, this is truly my favorite activity.
 
 
 ### 👨‍🎓Education 
