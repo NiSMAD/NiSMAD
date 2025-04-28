@@ -23,10 +23,10 @@ I have experience in developing Telegram bots, server applications and desktop i
 I'm trying to get better every day - I literally spend hours studying new algorithms and writing code for various cases, this is truly my favorite activity.
 
 
-### 👨‍🎓Education 
+### 👨‍🎓 Education 
 *   <a href="https://ieml.ru/">KIU</a> | Kazan | BS | Computer Science | 2020-2024
 
-### 🌍Languages
+### 🌍 Languages
 *   English: Upper Intermediate (B2)
 *   Russian: Native
 
