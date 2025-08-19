@@ -11,7 +11,6 @@
     
 <h3 align="center">
   Python Developer<br/>
-  Data Analyst<br/>
   Data Scientist (ML | NLP/LLM)<br/>
 </h3>
 
