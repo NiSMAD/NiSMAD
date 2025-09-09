@@ -73,12 +73,8 @@ I'm trying to get better every day - I literally spend hours studying new algori
 ### Frameworks
 <table>
     <td align="center" width="90">
-        <img alt="Selenium" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/selenium/selenium-original.svg" />
-        <br><h4>Selenium</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="PyTorch" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pytorch/pytorch-original.svg" />
-        <br><h4>PyTorch</h4>
+        <img alt="Django" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" />
+        <br><h4>Django</h4>
     </td>
     <td align="center" width="90">
         <img alt="Flask" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/flask/flask-original.svg" />
@@ -87,10 +83,6 @@ I'm trying to get better every day - I literally spend hours studying new algori
     <td align="center" width="90">
         <img alt="FastAPI" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" />
         <br><h4>FastAPI</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="Django" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" />
-        <br><h4>Django</h4>
     </td>
 </table>
 
