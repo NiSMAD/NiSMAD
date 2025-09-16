@@ -10,7 +10,7 @@
 ---
     
 <h3 align="center">
-  Python Developer<br/>
+  Python Backend Developer<br/>
   Data Scientist (ML | NLP/LLM)<br/>
 </h3>
 
@@ -26,7 +26,7 @@ I'm trying to get better every day - I literally spend hours studying new algori
 *   <a href="https://ieml.ru/">KIU</a> | Kazan | BS | Computer Science | 2020-2024
 
 ### 🌍 Languages
-*   English: Upper Intermediate (B2)
+*   English: Intermediate (B1)
 *   Russian: Native
 
 
@@ -123,10 +123,6 @@ I'm trying to get better every day - I literally spend hours studying new algori
     <td align="center" width="90">
         <img alt="MongoDB" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
         <br><h4>MongoDB</h4>
-    </td>
-    <td align="center" width="90">
-        <img alt="SQLite" width="45" height="45" style="padding:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
-        <br><h4>SQLite</h4>
     </td>
 </table>
 
